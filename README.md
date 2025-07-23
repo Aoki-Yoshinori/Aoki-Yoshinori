@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-- **Languages**: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Aoki-Yoshinori
-)](https://github.com/anuraghazra/github-readme-stats)
-- **Tools**: Git, VS Code, Eclipse
+- **My Skills**: [![My Skills](https://skillicons.dev/icons?i=c,eclipse,github,visualstudio)](https://skillicons.dev)
 
 <!--
 **Aoki-Yoshinori/Aoki-Yoshinori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
